@@ -1,1 +1,1 @@
-# Mapper and Reducer scripts in python for the attached assignment are given
+# Use Tuple Space and implement a server client communication. 
